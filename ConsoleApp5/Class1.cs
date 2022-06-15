@@ -8,5 +8,6 @@ namespace ConsoleApp5
 {
     internal class Class1
     {
+        //class one of them
     }
 }
